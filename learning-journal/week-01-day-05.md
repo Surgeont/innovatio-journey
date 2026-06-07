@@ -1,0 +1,4 @@
+## !AI Office Hours — first session ##
+1. You wrote the motivation of a preacher, not an operator — and your track record reads the same way: Claude mostly pattern-matched against generic founder-motivation modde without considering the context that is peculiar to me. I am a serial business builder who build solutions for problems I discover in the society but not limited to ClinicLink.
+2. The poverty you opened with isn't backstory — it's the fuel, and the fuel is contaminated: Claude is revealing something I have not considered here. Poverty should be my backstory not the motivation for being in business. Otherwise, I will unconsciously be driven to make money at the expense of providing value for people. 
+3.  "The only practical way" — you've built an unfalsifiable mission, and that's where founders go to hide: Claude is mostly revealing something I have not considered here.
