@@ -1,0 +1,3 @@
+Competitive Positioning Statement
+
+ClinicLink is targeting small private clinics with 1 to 5 doctors in Lagos. The onboarding process is designed to be very simple and straightforward that it takes 1 to 2 hours instead of weeks that Helium Health is currently taking. Helium Health is the closest competitor and it is not really addressing small private clinics for now. It is majorly focusing on medium-size and large hospitals. The pricing, hypothetically is around ₦8,500. The one thing I am uncertain about is actually to streamline the onboarding process which is also my unique selling point, that means I must find a way to achieve it.
